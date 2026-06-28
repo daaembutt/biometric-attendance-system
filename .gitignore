@@ -1,0 +1,32 @@
+# Credentials and secrets
+config.py
+.env
+*.env
+
+# Face data (private biometric data)
+face_data/
+*.pkl
+*.npy
+
+# Database files
+*.dump
+*.sql
+*.sqlite
+
+# Log files
+logs/
+*.log
+
+# Model files
+.insightface/
+*.onnx
+*.bin
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db

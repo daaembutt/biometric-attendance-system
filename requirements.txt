@@ -1,0 +1,8 @@
+opencv-python
+face-recognition
+cmake
+dlib
+psycopg2-binary
+numpy
+
+
